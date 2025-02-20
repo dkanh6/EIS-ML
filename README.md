@@ -17,23 +17,10 @@ Key components of the project include:
 
 ## Getting Started
 
-### Prerequisites
-
-- **Python 3.7+**
-- Python packages:
-  - `pandas`
-  - `numpy`
-  - `scipy`
-  - `matplotlib`
-  - `seaborn`
-  - `scikit-learn`
-  - `tensorflow`/`keras` or `pytorch`
-  - `mlxtend`
-
 ### Installation
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/EIS-ML-BacterialDiagnostics.git
-   cd EIS-ML-BacterialDiagnostics
+   git clone https://github.com/dkanh6/EIS-ML.git
+   cd EIS-ML
