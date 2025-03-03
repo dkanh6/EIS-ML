@@ -11,7 +11,7 @@ Bacterial infections represent a major global health challenge, and current diag
 Key components of the project include:
 - **Data Preprocessing:** Using libraries such as Pandas, NumPy, and SciPy to clean and normalize raw EIS data.
 - **Feature Extraction & Dimensionality Reduction:** Implementing statistical analysis and Principal Component Analysis (PCA) with scikit-learn to derive meaningful features.
-- **Model Development:** Building and validating individual models (Random Forests, Support Vector Machines, Neural Networks) and integrating them into a meta-model for enhanced performance.
+- **Model Development:** Building and validating individual models (Random Forests, Support Vector Machines, Neural Networks) and integrating them into a meta-model for enhanced predictive performance.
 - **Visualization & Analysis:** Leveraging Matplotlib and Seaborn for exploratory data analysis and result visualization.
 - **Interactive Prototyping:** Utilizing Jupyter Notebooks (and Google Colab) for iterative development and experimentation.
 
